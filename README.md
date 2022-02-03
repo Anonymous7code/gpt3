@@ -1,6 +1,6 @@
 # GPT-3 React App
 
-This is a GPT-3 Single page React App by [@Anonymous7code](https://github.com/Anonymous7code)
+This is a GPT-3 Single page React App by [@Anonymous7code](https://github.com/Anonymous7code) hosted on [Github Pages](https://anonymous7code.github.io/gpt3/).
 
 ## Screenshots
 
