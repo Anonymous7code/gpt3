@@ -12,7 +12,7 @@ This is a GPT-3 Single page React App by [@james-d-watson]()
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://anonymous7code.github.io/Portfolio/)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sajal-tiwari-0b420616b/)
-[![github](https://img.shields.io/badge/twitter)](https://twitter.com/)
+
 
 
 ## Available Scripts
