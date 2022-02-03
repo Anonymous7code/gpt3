@@ -1,6 +1,14 @@
-# Getting Started with Create React App
+# GPT-3 React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This is a GPT-3 Single page React App
+
+
+
+## Screenshots
+
+![App Screenshot](https://github.com/Anonymous7code/gpt3/blob/master/WebPage%20SS.png)
+
+
 
 ## Available Scripts
 
